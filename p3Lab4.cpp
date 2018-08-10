@@ -164,7 +164,8 @@ int main(){
 		contador+=2;
 		}
 	       }
-    
+    case 3 :resp='n';
+
     }
    }
 
